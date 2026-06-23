@@ -17,11 +17,12 @@ My journey in academic journey has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://tryhackme.com/p/JPBUK?tab=completed-rooms">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://tryhackme.com/p/JPBUK?tab=completed-rooms">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | <a href="https://tryhackme.com/p/JPBUK?tab=completed-rooms">Detection Lab</a>|
-| Incident Response Planning and Execution      | <a href="https://tryhackme.com/p/JPBUK?tab=completed-rooms">Detection Lab</a>|
-| Case Management with TheHive                  | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | <a href="https://tryhackme.com/p/JPBUK?tab=completed-rooms">TryHackMe Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://tryhackme.com/p/JPBUK?tab=completed-rooms">TryHackMe Lab</a>|
+| Security Automation with Shuffle SOAR         | <a href="https://tryhackme.com/p/JPBUK?tab=completed-rooms">TryHackMe Lab</a>|
+| Incident Response Planning and Execution      | <a href="https://tryhackme.com/p/JPBUK?tab=completed-rooms">TryHackMe Lab</a>|
+| Building Home Lab                             | SOC Automation Lab|
+| Linux                                         |                            |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
