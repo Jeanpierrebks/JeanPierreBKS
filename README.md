@@ -53,7 +53,7 @@ My journey in academic journey has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Building a Home Lab and Deploy SafeLine WAF
+- <a href="https://github.com/Jeanpierrebks/Building-Home-Lab-and-deploy-Safeline-WAF/tree/main">Building a Home Lab and Deploy SafeLine WAF</a>
 - Linux Commands Demonstration
 - Detection Lab
 - SOC Automation Project
