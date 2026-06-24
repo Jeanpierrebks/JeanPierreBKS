@@ -49,7 +49,7 @@ My journey in academic journey has led me to develop a passion for cybersecurity
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.credly.com/badges/f4f59da9-aa2b-47cb-8629-f9ecca2e4b64/public_url"><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?&style=for-the-badge&logo=comptia&logoColor=white" /></a>
 </div>
 
 ## Projects
