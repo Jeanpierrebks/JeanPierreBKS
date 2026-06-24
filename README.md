@@ -15,11 +15,15 @@ My journey in academic journey has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://tryhackme.com/p/JPBUK?tab=completed-rooms">TryHackMe Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://tryhackme.com/p/JPBUK?tab=completed-rooms">TryHackMe Lab</a>|
+| Network Traffic Monitoring and Threat Filtering | <a href="https://github.com/Jeanpierrebks/Building-Home-Lab-and-deploy-Safeline-WAF/tree/main">Building a Home Lab and Deploy SafeLine WAF</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://tryhackme.com/p/JPBUK?tab=completed-rooms">TryHackMe Lab</a>|
 | Incident Response Planning and Execution      | <a href="https://tryhackme.com/p/JPBUK?tab=completed-rooms">TryHackMe Lab</a>|
-| Building Home Lab                             | <a href="https://github.com/Jeanpierrebks/Building-Home-Lab-and-deploy-Safeline-WAP-firewall/tree/main">Home Lab</a>|
+| Hypervisor Configuration and Virtual Network Setup | <a href="https://github.com/Jeanpierrebks/Building-Home-Lab-and-deploy-Safeline-WAF/tree/main">Building a Home Lab and Deploy SafeLine WAF</a>|
 | Linux                                         |                            |
+|System Administration                          | <a href="https://github.com/Jeanpierrebks/Building-Home-Lab-and-deploy-Safeline-WAF/tree/main">Building a Home Lab and Deploy SafeLine WAF</a>|
+|Troubleshooting                                | <a href="https://github.com/Jeanpierrebks/Building-Home-Lab-and-deploy-Safeline-WAF/tree/main">Building a Home Lab and Deploy SafeLine WAF</a>|
+|System Administration                          | <a href="https://github.com/Jeanpierrebks/Building-Home-Lab-and-deploy-Safeline-WAF/tree/main">Building a Home Lab and Deploy SafeLine WAF</a>|
+|MySQL, Database Management                    | <a href="https://github.com/Jeanpierrebks/Building-Home-Lab-and-deploy-Safeline-WAF/tree/main">Building a Home Lab and Deploy SafeLine WAF</a>|
 
 ## Tools
 
@@ -49,7 +53,7 @@ My journey in academic journey has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Building a Home Lab
+- Building a Home Lab and Deploy SafeLine WAF
 - Linux Commands Demonstration
 - Detection Lab
 - SOC Automation Project
