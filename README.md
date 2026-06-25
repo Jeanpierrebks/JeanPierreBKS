@@ -19,7 +19,7 @@ My journey in academic journey has led me to develop a passion for cybersecurity
 | Security Automation with Shuffle SOAR         | <a href="https://tryhackme.com/p/JPBUK?tab=completed-rooms">TryHackMe Lab</a>|
 | Incident Response Planning and Execution      | <a href="https://tryhackme.com/p/JPBUK?tab=completed-rooms">TryHackMe Lab</a>|
 | Hypervisor Configuration and Virtual Network Setup | <a href="https://github.com/Jeanpierrebks/Building-Home-Lab-and-deploy-Safeline-WAF/tree/main">Building a Home Lab and Deploy SafeLine WAF</a>|
-| Linux                                         |                            |
+| Linux                                         | <a href="https://github.com/Jeanpierrebks/Diagnose-and-Resolve-Critical-Production-Incident-using-Kali-Linux./blob/main/README.md">Diagnose and Resolve Critical Production Incident using Kali Linux</a>|
 |System Administration                          | <a href="https://github.com/Jeanpierrebks/Building-Home-Lab-and-deploy-Safeline-WAF/tree/main">Building a Home Lab and Deploy SafeLine WAF</a>|
 |Troubleshooting                                | <a href="https://github.com/Jeanpierrebks/Building-Home-Lab-and-deploy-Safeline-WAF/tree/main">Building a Home Lab and Deploy SafeLine WAF</a>|
 |System Administration                          | <a href="https://github.com/Jeanpierrebks/Building-Home-Lab-and-deploy-Safeline-WAF/tree/main">Building a Home Lab and Deploy SafeLine WAF</a>|
@@ -54,4 +54,4 @@ My journey in academic journey has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/Jeanpierrebks/Building-Home-Lab-and-deploy-Safeline-WAF/tree/main">Building a Home Lab and Deploy SafeLine WAF</a>
-- Diagnose and Resolve Critical Production Incident using Kali Linux.
+- <a href="https://github.com/Jeanpierrebks/Diagnose-and-Resolve-Critical-Production-Incident-using-Kali-Linux./blob/main/README.md">Diagnose and Resolve Critical Production Incident using Kali Linux</a>
